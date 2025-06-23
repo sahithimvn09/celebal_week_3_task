@@ -15,11 +15,11 @@ A feature-rich Admin Dashboard built using React.js, offering customizable theme
 ## The application is live at [LiveDemo]()
 
 
-![image1]()
+![image1](https://github.com/sahithimvn09/celebal_week_3_task/blob/767bb43098bbaa2101cb7ef4c7079e5cb0479151/image.png)
 
-![image2]()
+![image2](https://github.com/sahithimvn09/celebal_week_3_task/blob/767bb43098bbaa2101cb7ef4c7079e5cb0479151/image1.png)
 
-![image3]()
+
 
 ## Technologies Used
 
@@ -41,7 +41,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-    git clone 
+    git clone https://github.com/sahithimvn09/celebal_week_3_task.git
     cd celebal_week_3_task
    ```
 2. Install dependencies:
