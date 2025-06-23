@@ -10,7 +10,8 @@ import Cart from './Cart';
 import Chat from './Chat';
 import Notification from './Notification';
 import UserProfile from './UserProfile';
-import profilePic from "../data/avatar2.jpg"
+import profilePic from '../data/avatar2.jpg';
+
 const NavButton = ({ title, customFunc, icon, color, dotColor }) => (
   <TooltipComponent content={title} position="BottomCenter">
     <button
