@@ -12,7 +12,7 @@ A feature-rich Admin Dashboard built using React.js, offering customizable theme
 - **Responsive Design**: Fully responsive layout optimized for all devices.
 - **Smooth Navigation**: Intuitive UI with easy-to-navigate components.
 
-## The application is live at [LiveDemo]()
+## The application is live at [LiveDemo](https://sahithimvn09.github.io/celebal_week_3_task/)
 
 
 ![image1](https://github.com/sahithimvn09/celebal_week_3_task/blob/767bb43098bbaa2101cb7ef4c7079e5cb0479151/image.png)
